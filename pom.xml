@@ -21,6 +21,13 @@
             <version>5.10.0</version> <!-- Adjust to your version -->
             <scope>test</scope>
         </dependency>
+
+        <!-- https://mvnrepository.com/artifact/com.github.lalyos/jfiglet -->
+        <dependency>
+            <groupId>com.github.lalyos</groupId>
+            <artifactId>jfiglet</artifactId>
+            <version>0.0.9</version>
+        </dependency>
     </dependencies>
 
 </project>
